@@ -38,4 +38,5 @@ const renderEmail = (arr) => {
     tableEmail.innerHTML = html;
 };
 
+// event listener per generare nuova lista
 emailBtn.addEventListener('click', generateAPIEmail);

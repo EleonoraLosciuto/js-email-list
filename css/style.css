@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Verdana, sans-serif;
+}
+
 .email-list,
 h1 {
     width: fit-content;
